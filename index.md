@@ -7,9 +7,11 @@ email:
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
+phone:
+  text: 17781481339
 ---
 
-# Wode **Ni**
+# **何启航**
 
 <!--
 include contact information from the front matter
@@ -21,25 +23,12 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Carnegie Mellon University** `2018.9 -`
+### **四川大学 计算机技术 硕士** `2013.9 - 2016.7`
 
-```
-Pittsburgh, PA
-```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+### **四川大学 计算机技术 本科** `2009.9 - 2013.7`
 
 ### **Dickinson College** `2013.9 - 2016.5`
 
